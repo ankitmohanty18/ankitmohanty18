@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Front End Development
+🌱 I’m currently learning Front End Development   
+ 
+<br>
+<br>
+  
+<b>GitHub Streak</b>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitmohanty18)](https://git.io/streak-stats)
