@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Front End Development   
- 
+💬 Open to feedback
 <br>
 <br>
   
