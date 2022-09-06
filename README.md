@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning Front End Development (HTML, CSS & JS)   
 
-💬 Open to feedback
+💬 Open to feedback  
+
+📫 How to reach me: Mail on ankitmohanty566@gmail.com, Linkedin, Twitter
 <br>
 <br>
   
