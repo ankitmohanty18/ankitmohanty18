@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Front End Development (HTML, CSS & JS)   
+🌱 I’m currently learning Front End Development (HTML, CSS, JS, BootStrap)   
 
 💬 Open to feedback  
 
