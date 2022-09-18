@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 💬 Open to feedback  
 
-📫 How to reach me: Mail on ankitmohanty566@gmail.com, Linkedin, Twitter
 <br>
 <br>
   
