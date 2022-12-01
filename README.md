@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 💬 Open to feedback  
 
+📧 Reach me on ankitmohanty566@gmail.com
+
 <br>
 <br>
   
