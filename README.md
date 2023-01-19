@@ -26,9 +26,3 @@ Here are some ideas to get you started:
 
 📧 Reach me on ankitmohanty566@gmail.com
 
-<br>
-<br>
-  
-<b>GitHub Streak</b>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitmohanty18)](https://git.io/streak-stats)
