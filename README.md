@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ✅ Created a **Spotify Clone** using only HTML CSS JS : https://ankitmohanty18.github.io/Spotify-Clone/ 
 
+✅ Created a **Starbucks Clone** using only HTML CSS JS : https://ankitmohanty18.github.io/Starbucks-Clone/
+
 ✅ Certified React Developer (Meta, Coursera)
 
 💬 Open to feedback  
