@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning Front End Development (HTML, CSS, JS, BootStrap, React)  
 
-✅ Building an **E Commerce Web App** using React and Redux : https://ankitmohanty18.github.io/Spotify-Clone/ 
+✅ Building an **E Commerce Web App** using React and Redux : https://github.com/ankitmohanty18/Ecommerce 
 
 ✅ Created a **Spotify Clone** using only HTML CSS JS : https://ankitmohanty18.github.io/Spotify-Clone/ 
 
