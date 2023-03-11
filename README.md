@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ✅ Building an **E Commerce Web App** using React and Redux : https://github.com/ankitmohanty18/Ecommerce 
 
-✅ Created a **Spotify Clone** using only HTML CSS JS : https://ankitmohanty18.github.io/Spotify-Clone/ 
+✅ Created a **Spotify Clone** using only HTML CSS JS : https://aspotify-by-ankit.netlify.app
 
 ✅ Created a **Starbucks Clone** using only HTML CSS JS : https://ankitmohanty18.github.io/Starbucks-Clone/
 
